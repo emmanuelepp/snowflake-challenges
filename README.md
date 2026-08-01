@@ -1,4 +1,4 @@
-# snowflake-challenges
+# Snowflake Challenges ❄️
 
 Hands-on Snowflake practice — [Frosty Friday](https://frostyfriday.org/) weekly challenges and lab work: SQL, data loading, Streams & Tasks, Time Travel, Cortex AI.
 
